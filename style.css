@@ -8,6 +8,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 
 nav>ul {
@@ -42,4 +43,45 @@ nav a {
 .tittle {
     font-size: 45px;
     font-weight: 800;
+}
+
+.header {
+    background-color: aliceblue;
+    /* background-image: url(image/sky.jpg); */
+    /* background-repeat: no-repeat; */
+
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.pic {
+    width: 500px;
+}
+
+.bann1 {
+    font-size: 45px;
+    margin-bottom: 0%;
+}
+
+.bann2 {
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.section{
+    padding: 130px;
+    border: 10px;
+    background:beige;
+}
+.sec-h{
+    text-align: center;
+}
+.sec-p{
+    text-align: center;
+
 }
