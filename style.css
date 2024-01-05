@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+/* nav releted style */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: dotted;
+    color: blue;
+}
+
+.r-color {
+    color: coral;
+}
+
+.btn-pri {
+    border-radius: 5px;
+    background-color: coral;
+    border: 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding: 10px 20px;
+}
+
+.tittle {
+    font-size: 45px;
+    font-weight: 800;
+}
